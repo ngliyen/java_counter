@@ -1,4 +1,4 @@
-package com.liyen.counter;
+package com.liyen.counter.controller;
 
 import javax.servlet.http.HttpSession;
 
